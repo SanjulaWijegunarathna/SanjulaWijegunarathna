@@ -64,14 +64,6 @@ I enjoy building practical solutions that combine clean design, useful functiona
 
 ---
 
-## GitHub Statistics
-
-![Sanjula's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanjulaWijegunarathna\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjulaWijegunarathna\&layout=compact\&hide_border=true)
-
----
-
 ## Let's Connect
 
 * GitHub: [@SanjulaWijegunarathna](https://github.com/SanjulaWijegunarathna)
