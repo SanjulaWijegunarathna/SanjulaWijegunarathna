@@ -75,3 +75,11 @@ sanjula-wijegunarathna)
 ## "Always learning. Always building."
 
 Thanks for visiting my profile.
+
+# Hi, I'm Sanjula Wijegunarathna
+
+### IT Undergraduate | Software Developer | Tech Enthusiast
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SanjulaWijegunarathna&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
